@@ -1,0 +1,21 @@
+[00:00:35.308] Server  LOG     
+[00:00:35.308] Server  LOG       We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:35.309] Server  LOG       The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:35.310] Server  LOG       	- include was updated to add 'dist/types/**/*.ts'
+[00:00:35.311] Server  LOG       	- include was updated to add 'dist/dev/types/**/*.ts'
+[00:00:35.311] Server  LOG     
+[00:00:45.333] Server  LOG     ✓ Ready in 44.7s
+[00:00:48.370] Server  LOG     ○ Compiling / ...
+[00:01:15.340] Server  LOG     ✓ Finished writing to filesystem cache in 37.2s
+[00:01:54.797] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:46.774] Server  LOG     ✓ Finished writing to filesystem cache in 3.9min
+[00:06:10.457] Browser WARN    Image with src "/images/n1.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:10.458] Browser WARN    Image with src "/images/n2.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:10.458] Browser WARN    Image with src "/images/n3.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:10.458] Browser WARN    Image with src "/images/n4.jpg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:06:14.722] Server  LOG     ✓ Finished filesystem cache database compaction in 27.9s
+[00:06:50.083] Server  LOG     ✓ Finished writing to filesystem cache in 63s
+[00:50:54.006] Server  LOG     ✓ Compiled in 6.6s
+[00:51:02.471] Server  LOG     ✓ Finished writing to filesystem cache in 10.1s
+[00:51:29.599] Server  LOG     ✓ Finished writing to filesystem cache in 25.1s

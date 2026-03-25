@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/tour/tour-details/%5Bid%5D/page.tsx"],"sourcesContent":["\r\n\r\nconst TourDetailsPage = () => {\r\n  return (\r\n    <div className=\"text\">tour details page </div>\r\n  )\r\n}\r\n\r\nexport default TourDetailsPage"],"names":[],"mappings":"sWAEwB,IAEpB,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,CAAI,UAAU,gBAAO"}
