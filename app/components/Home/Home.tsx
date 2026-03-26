@@ -2,7 +2,7 @@
 import React, { useEffect } from 'react'
 import Hero from './Hero/Hero'
 import Hotel from './Hotel/Hotel'
-import Desitnation from './Destination/Desitnation'
+import Destination from './Destination/Destination'
 import { WhyChoose } from './WhyChoose/WhyChoose'
 import Review from './Review/Review'
 import News from './News/News'
@@ -27,7 +27,7 @@ const Home = () => {
   return (
     <div className="overflow-hidden">
       <Hero />
-     <Desitnation/>
+     <Destination/>
       <Hotel />
       <WhyChoose />
       <Review />

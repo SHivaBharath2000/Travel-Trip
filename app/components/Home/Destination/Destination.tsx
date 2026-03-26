@@ -2,7 +2,7 @@ import React from 'react'
 import SectionHeading from '../../Helper/SectionHeading'
 import DestinationSlider from './DestinationSlider'
 
-const Desitnation = () => {
+const Destination = () => {
   return (
     <div className='pt-20 pb-20'>
         {/* Section heading */}
@@ -15,4 +15,4 @@ const Desitnation = () => {
   )
 }
 
-export default Desitnation
+export default Destination
